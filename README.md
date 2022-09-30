@@ -18,7 +18,10 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
 
-<img style='vertical-align: baseline' src="https://komarev.com/ghpvc/?username=h1softwarehouse&label=Profile%20views&color=f80000&style=flat&label=PROFILE+VIEWS" alt="suburbanno" />
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=h1softwarehouse&label=Profile%20views&color=f80000&style=flat&label=PROFILE+VIEWS"
+        alt="suburbanno" />
+<div>
 
 <!---
 h1softwarehouse/h1softwarehouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
