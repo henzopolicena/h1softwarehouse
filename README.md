@@ -26,7 +26,10 @@
 
 <div align="left">
 <a href="https://github.com/h1softwarehouse/formacao-angular-developer">
-<img width="200" height="auto" src="https://hermes.digitalinnovation.one/tracks/5a199bba-a494-49ce-b357-f746eb7b7425.png"/>
+<img width="100" height="auto" src="https://hermes.digitalinnovation.one/tracks/5a199bba-a494-49ce-b357-f746eb7b7425.png"/>
+</a>
+<a href="https://github.com/h1softwarehouse/formacao-html-developer">
+<img width="100" height="auto" src="https://hermes.digitalinnovation.one/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png"/>
 </a>
 </div>
 
