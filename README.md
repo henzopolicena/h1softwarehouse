@@ -20,11 +20,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
 
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=h1softwarehouse&label=Profile%20views&color=f80000&style=flat&label=PROFILE+VIEWS"
-        alt="suburbanno" />
-<div>
-
 <div align="left">
 <a href="https://github.com/h1softwarehouse/formacao-angular-developer">
 <img width="100" height="auto" src="https://hermes.digitalinnovation.one/tracks/5a199bba-a494-49ce-b357-f746eb7b7425.png"/>
@@ -33,6 +28,11 @@
 <img width="100" height="auto" src="https://hermes.digitalinnovation.one/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png"/>
 </a>
 </div>
+
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=h1softwarehouse&label=Profile%20views&color=f80000&style=flat&label=PROFILE+VIEWS"
+        alt="suburbanno" />
+<div>
 
 <!---
 h1softwarehouse/h1softwarehouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
