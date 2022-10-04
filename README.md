@@ -25,7 +25,9 @@
 <div>
 
 <div align="left">
-<img href="https://github.com/h1softwarehouse/formacao-angular-developer" width="200" height="auto" src="https://hermes.digitalinnovation.one/tracks/5a199bba-a494-49ce-b357-f746eb7b7425.png"/>
+<a href="https://github.com/h1softwarehouse/formacao-angular-developer">
+<img width="200" height="auto" src="https://hermes.digitalinnovation.one/tracks/5a199bba-a494-49ce-b357-f746eb7b7425.png"/>
+</a>
 </div>
 
 <!---
