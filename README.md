@@ -1,4 +1,4 @@
-<img align="right" height="200em" src="https://raw.githubusercontent.com/h1softwarehouse/h1softwarehouse/main/assets/dev.gif"/>
+<!-- <img align="right" height="200em" src="https://raw.githubusercontent.com/h1softwarehouse/h1softwarehouse/main/assets/dev.gif"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm @h1softwarehouse</h1>
 
 - 👀 I’m interested in building amazing, scalable and beautiful projects!
