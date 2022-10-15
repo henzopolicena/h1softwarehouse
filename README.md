@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @h1softwarehouse.
+<img align="right" height="200em" src="https://raw.githubusercontent.com/h1softwarehouse/h1softwarehouse/main/assets/dev.gif"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm @h1softwarehouse</h1>
+
 - 👀 I’m interested in building amazing, scalable and beautiful projects!
 - 🌱 I’m currently learning Angular 2+ and Ionic v5+.
 - 📫 How to reach me at https://www.linkedin.com/in/henzopolicena or https://wa.me/5562998257049.
@@ -10,8 +12,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1softwarehouse&layout=compact&langs_count=6&theme=light"/>
   <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1softwarehouse&" alt="h1softwarehouse" />
 </div>
-
-  <img height="150em" src="https://raw.githubusercontent.com/h1softwarehouse/h1softwarehouse/main/assets/dev.gif"/>
 
 <div align="center" style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
