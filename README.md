@@ -11,6 +11,8 @@
   <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1softwarehouse&" alt="h1softwarehouse" />
 </div>
 
+  <img height="150em" src="https://raw.githubusercontent.com/h1softwarehouse/h1softwarehouse/main/assets/dev.gif"/>
+
 <div align="center" style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
