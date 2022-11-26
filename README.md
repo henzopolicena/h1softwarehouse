@@ -1,4 +1,4 @@
-<img align="right" height="200em" src="https://raw.githubusercontent.com/h1softwarehouse/h1softwarehouse/main/assets/henzopolicena.gif"/>
+<!-- <img align="right" height="200em" src="https://raw.githubusercontent.com/h1softwarehouse/h1softwarehouse/main/assets/henzopolicena.gif"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm @henzopolicena</h1>
 
 - 👀 I’m interested in building amazing, scalable and beautiful projects!
@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/h1softwarehouse">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=h1softwarehouse&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1softwarehouse&layout=compact&langs_count=6&theme=light"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1softwarehouse&layout=compact&langs_count=6&theme=light"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=h1softwarehouse&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1softwarehouse&" alt="h1softwarehouse" />
 </div>
 
