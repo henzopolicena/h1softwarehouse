@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/h1softwarehouse">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1softwarehouse&layout=compact&langs_count=6&theme=light"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=h1softwarehouse&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1softwarehouse&" alt="h1softwarehouse" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=h1softwarehouse&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1softwarehouse&layout=compact&langs_count=6&theme=dark"/>
+  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1softwarehouse&theme=dark" alt="h1softwarehouse" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
