@@ -13,13 +13,3 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-
-<!-- <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=h1softwarehouse&label=Profile%20views&color=f80000&style=flat&label=PROFILE+VIEWS"
-        alt="suburbanno" />
-<div> -->
-
-<!---
-h1softwarehouse/h1softwarehouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
