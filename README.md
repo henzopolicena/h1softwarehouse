@@ -5,6 +5,10 @@
 - 📫 How to reach me at https://www.linkedin.com/in/henzopolicena or https://wa.me/5562998257049.
 - 💬 Let's have coffee together!
 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=henzopolicena&theme=highcontrast&border_radius=8"/>
+</div>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
