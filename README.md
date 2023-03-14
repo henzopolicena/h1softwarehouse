@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm <a target="_blank" href="https://www.instagram.com/henzopolicena/">@henzopolicena<a/></h1>
 
 - 👀 I’m interested in building amazing, scalable and beautiful projects!
-- 🌱 I’m currently learning Angular 2+ and Ionic v5+.
+- 🌱 I’m currently working with | Angular 2+ | AngularJS | Ionic v5+ | GraphQL | NodeJS | Storybook.
 - 📫 How to reach me at https://www.linkedin.com/in/henzopolicena or https://wa.me/5562998257049.
 - 💬 Let's have coffee together!
 
