@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm <a target="_blank" href="https://www.instagram.com/henzopolicena/">@henzopolicena<a/></h1>
+<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Hênzo Policéna</h1>
 
 - 👀 I’m interested in building amazing, scalable and beautiful projects!
 - 🌱 I’m currently working with Angular | Ionic | TypeScrit | GraphQL | Nest.js
