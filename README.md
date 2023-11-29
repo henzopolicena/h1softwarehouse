@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in building amazing, scalable and beautiful projects!
 - 🌱 I’m currently working with Angular | Ionic
-- 📫 How to reach me at https://www.linkedin.com/in/henzopolicena or https://wa.me/5562998257049.
+- 📫 How to reach me at https://www.linkedin.com/in/henzopolicena.
 - 💬 Let's have coffee together!
 
 <div align="center">
